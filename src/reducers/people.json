@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ankit",
+    "lastName": "Kumar",
+    "phone": "0113177897",
+    "email": "ankitdroiddeveloper@gmail.com",
+    "project": "CRM App"
+  },
+  {
+    "id": 2,
+    "firstName": "Bilal",
+    "lastName": "Sattar",
+    "phone": "0113177897",
+    "email": "ankitdroiddeveloper@gmail.com",
+    "project": "CRM App"
+  }
+]
